@@ -1,1 +1,4 @@
-[{"package": "territorial", "url": "https://github.com/bastianolea/territorial"}]
+[
+  {"package": "territorial", "url": "https://github.com/bastianolea/territorial"},
+  {"package": "poblador", "url": "https://github.com/bastianolea/poblador"}
+]
